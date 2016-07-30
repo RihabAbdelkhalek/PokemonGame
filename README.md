@@ -1,2 +1,2 @@
 # PokemonGame
-This projet is a simple android game for children done with Cordova.
+This projet is a simple android game for childrens created with Cordova.
